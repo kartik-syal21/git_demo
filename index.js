@@ -68,9 +68,12 @@ ddsmoothmenu.init({
                 <li><a href="about.html"><span></span>About Us</a>
                     <ul>
 <<<<<<< HEAD
+<<<<<<< HEAD
                         <li><a href="#">Sub menu 1 test 1</a></li>
                         <li><a href="#">Sub menu 2 test 2</a></li>
 =======
+=======
+>>>>>>> parent of f89fe0e... second commit
                         <li><a href="#">Sub menu 1</a></li>
                         <li><a href="#">Sub menu 2</a></li>
 >>>>>>> parent of f89fe0e... second commit
