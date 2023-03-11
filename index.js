@@ -64,19 +64,11 @@ ddsmoothmenu.init({
 	<div id="tooplate_top">
     	<div id="tooplate_menu" class="ddsmoothmenu">
             <ul>
-                <li><a href="index.html" class="selected"><span></span>Home Test 2 456</a></li>
+                <li><a href="index.html" class="selected"><span></span>Home Test 2 456 123456</a></li>
                 <li><a href="about.html"><span></span>About Us</a>
                     <ul>
-<<<<<<< HEAD
-<<<<<<< HEAD
-                        <li><a href="#">Sub menu 1 test 1</a></li>
-                        <li><a href="#">Sub menu 2 test 2</a></li>
-=======
-=======
->>>>>>> parent of f89fe0e... second commit
                         <li><a href="#">Sub menu 1</a></li>
                         <li><a href="#">Sub menu 2</a></li>
->>>>>>> parent of f89fe0e... second commit
                         <li><a href="#">Sub menu 3</a></li>					
                     </ul>
                 </li>
